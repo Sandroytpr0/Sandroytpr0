@@ -1,6 +1,4 @@
-
-
- 👨‍💻 Sandro Callañaupa Portal
+ Sandro Callañaupa Portal
 
 Software Developer | Estudiante de Ingeniería de Software
 
@@ -12,7 +10,7 @@ Desarrollo Web | Aplicaciones Móviles | Backend | Bases de Datos
 
 
 
- 👋 Sobre mí
+  Sobre mí
 
 Soy estudiante de Ingeniería de Software en **ISIL**, con experiencia práctica en proyectos académicos y personales de desarrollo web, aplicaciones móviles y sistemas empresariales.
 
